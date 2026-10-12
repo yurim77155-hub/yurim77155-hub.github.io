@@ -1,1 +1,0 @@
-Image assets are maintained from the portfolio source deck.
